@@ -19,8 +19,8 @@ LICENSE: [MIT](/license.md)
 9. [git clean](/clean.md)
 #### [Основы Ветвления и слияния](/branch&merger.md)
 1. [Основы ветвления](/branching.md)
-2. [Основы слияния](/megred.md)
-3. [Основные конфликты слияния](/conflicts.md)
+2. [Основы слияния](/merger.md)
+3. [Основные конфликты слияния](/conflics.md)
 
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,
