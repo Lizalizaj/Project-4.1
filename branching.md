@@ -19,3 +19,5 @@ $ git checkout iss53
 
 Далее:
 [Основы слияния](/merger.md)
+
+Перейти в [оглавление](/readme.md) 

@@ -4,3 +4,7 @@
 ```bash=
 git mv
 ```
+
+Далее о [git clean](/clean.md)
+
+Перейти в [оглавление](/readme.md) 

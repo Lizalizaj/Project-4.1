@@ -4,3 +4,7 @@
 ```bash=
 git diff
 ```
+
+Далее о [git difftool](/difftool.md)
+
+Перейти в [оглавление](/readme.md) 

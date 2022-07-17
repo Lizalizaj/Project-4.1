@@ -21,3 +21,5 @@ index.html |    1 +
 $ git branch -d iss53
 ```
 Далее: [Основные конфликты слияния](/conflics.md)
+
+Перейти в [оглавление](/readme.md) 

@@ -4,3 +4,7 @@
 ```bash=
 git reset
 ```
+
+Далее о [git rm](/rm.md)
+
+Перейти в [оглавление](/readme.md) 

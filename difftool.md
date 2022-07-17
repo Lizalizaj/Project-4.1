@@ -4,3 +4,6 @@
 ```bash=
 git difftool
 ```
+Далее о [git commit](/commit.md)
+
+Перейти в [оглавление](/readme.md) 

@@ -4,3 +4,6 @@
 ```bash=
 git status
 ```
+Далее о [git diff](/diff.md)
+
+Перейти в [оглавление](/readme.md) 
